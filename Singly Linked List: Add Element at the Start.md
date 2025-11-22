@@ -62,6 +62,7 @@ MyList.push_front(20)
 MyList.push_front(30)
 MyList.PrintList()
 ```
+
 ## Sample Output
 
 <img width="925" height="185" alt="image" src="https://github.com/user-attachments/assets/8dd0463b-39cb-4adf-907b-0c1238cafa42" />
